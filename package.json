@@ -7,7 +7,10 @@
     "test": "./ci/test.js"
   },
   "repository": "realglobe-Inc/sg-validator",
-  "keywords": [],
+  "keywords": [
+    "SUGOS",
+    "validation"
+  ],
   "author": {
     "name": "Taka Okunishi",
     "email": "okunishitaka.com@gmail.com",
