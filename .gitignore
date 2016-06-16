@@ -42,3 +42,5 @@ lib/html/*.js
 
 .npmrc
 .DS_Store
+
+browser
