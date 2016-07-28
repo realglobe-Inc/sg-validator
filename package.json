@@ -1,6 +1,6 @@
 {
   "name": "sg-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JSON Schema validator",
   "main": "lib",
   "browser": "browser",
@@ -37,6 +37,7 @@
     "ape-testing": "^4.0.0",
     "ape-tmpl": "^5.0.2",
     "ape-updating": "^3.0.2",
+    "babel-preset-es2015": "^6.9.0",
     "coz": "^6.0.2",
     "injectmock": "^2.0.0",
     "sg-travis": "^1.1.25"
