@@ -36,3 +36,11 @@ tmp
 
 
 !browser
+
+# SUGOS
+.*
+tmp
+ci
+doc
+example
+test

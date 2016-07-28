@@ -38,7 +38,8 @@
     "ape-tmpl": "^5.0.2",
     "ape-updating": "^3.0.2",
     "coz": "^6.0.2",
-    "injectmock": "^2.0.0"
+    "injectmock": "^2.0.0",
+    "sg-travis": "^1.1.25"
   },
   "engines": {
     "node": ">=6",
