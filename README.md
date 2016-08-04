@@ -53,6 +53,7 @@ JSON Schema validator
 <!-- Section from "doc/guides/01.Installation.md.hbs" Start -->
 
 <a name="section-doc-guides-01-installation-md"></a>
+
 Installation
 -----
 
@@ -66,6 +67,7 @@ $ npm install sg-validator --save
 <!-- Section from "doc/guides/02.Usage.md.hbs" Start -->
 
 <a name="section-doc-guides-02-usage-md"></a>
+
 Usage
 ---------
 
@@ -131,6 +133,8 @@ This software is released under the [MIT License](https://github.com/realglobe-I
 Links
 ------
 
-+ [tv4](https://github.com/geraintluff/tv4)
++ [tv4][tv4_url]
+
+[tv4_url]: https://github.com/geraintluff/tv4
 
 <!-- Links End -->
