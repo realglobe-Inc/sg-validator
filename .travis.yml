@@ -4,6 +4,9 @@ node_js:
 addons:
   firefox: "43.0"
 before_install:
+- npm i npm-cli-login -g
+- echo "NPM_USER=${NPM_USER}"
+- npm-cli-login -u "${NPM_USER}" -p "${NPM_PASSWORD}" -e "${NPM_EMAIL}"
 - export DISPLAY=:99.0
 - sh -e /etc/init.d/xvfb start
 install:
