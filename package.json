@@ -41,7 +41,7 @@
     "injectmock": "^2.0.0",
     "request": "^2.79.0",
     "sg-karma": "^1.0.4",
-    "sg-travis": "^1.1.33"
+    "sg-travis": "^1.1.37"
   },
   "engines": {
     "node": ">=6",
