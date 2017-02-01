@@ -135,10 +135,10 @@ Links
 
 + [tv4][tv4_url]
 + [SUGOS][sugos_url]
-+ [Realglobe][realglobe_url]
++ [Realglobe, Inc][realglobe,_inc_url]
 
 [tv4_url]: https://github.com/geraintluff/tv4
 [sugos_url]: https://github.com/realglobe-Inc/sugos
-[realglobe_url]: https://realglobe.jp/
+[realglobe,_inc_url]: http://realglobe.jp
 
 <!-- Links End -->
